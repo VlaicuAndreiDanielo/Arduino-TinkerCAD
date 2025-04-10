@@ -93,4 +93,4 @@ Happy tinkering and enjoy creating unique lighting effects with your Arduino!
 
 ## Future Updates
 
-Stay tuned for more projects! We are continuously working on new and exciting Arduino projects that will be added in the coming days. Keep an eye on this repository for updates!
+Stay tuned for more projects! I am continuously working on new and exciting Arduino projects that will be added in the coming days. Keep an eye on this repository for updates!
