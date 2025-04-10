@@ -1,6 +1,6 @@
 # Arduino-TinkerCAD
 
-This repository contains two Arduino projects that you can test both on the TinkerCAD platform and with a real Arduino UNO. The projects include:
+This repository contains Arduino projects that you can test both on the TinkerCAD platform and with a real Arduino UNO. The projects include:
 
 1. **RGB LED Project**
 2. **LED Matrix Projects (with 3 versions of code)**
