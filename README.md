@@ -4,6 +4,8 @@ This repository contains Arduino projects that you can test both on the TinkerCA
 
 1. **RGB LED Project**
 2. **LED Matrix Projects (with 3 versions of code)**
+3. **RGB LED Project with/without Photoresistor**
+4. **LED Dice**
 
 ---
 
