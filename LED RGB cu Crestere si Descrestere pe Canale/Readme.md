@@ -1,8 +1,6 @@
 Arduino schematic and code explanation
 
 Project 2 Versiunea 1
-
-In this code, each color channel is increased in turn and the other color channels are decreased in turn, doing this in all possible combinations:
 RGB LED Project
 
 ### Overview
@@ -27,6 +25,7 @@ This project uses an RGB LED to generate a variety of smooth fading effects. The
 - **Pin 9 (Blue):** Connect through a 220 Ω resistor to the blue lead of the RGB LED.
 - **Common Terminal:** Depending on the LED type (common cathode or common anode), connect the common pin to GND (for common cathode) or to 5V (for common anode). Adjust the code logic accordingly.
 
+In this code, each color channel is increased in turn and the other color channels are decreased in turn, doing this in all possible combinations:
 -(R,B,G) -CRESC> MAX -SCAD> (G,B,R) -(R,B,G) -CRESC> MAX -SCAD> (G,R,B)
 
 -(R,B,G) -CRESC> MAX -SCAD> (B,G,R) -(R,B,G) -CRESC> MAX -SCAD> (B,R,G)
