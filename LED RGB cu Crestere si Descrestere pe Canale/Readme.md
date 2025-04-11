@@ -1,7 +1,7 @@
 Arduino schematic and code explanation
 
 Project 2 Versiunea 1
-RGB LED Project
+## RGB LED Project
 
 ### Overview
 
@@ -62,9 +62,3 @@ In this code, each color channel is increased in turn and the other color channe
 
 -(G,B,R) -CRESC> MAX -SCAD> (R,B,G) -(G,B,R) -CRESC> MAX -SCAD> (R,G,B)
 
-Required components:
--RGB LED
--Arduino UNO
--Wire
--Resistors 220(OHM) - on TinkerCAD they are required or in the schematic if the RGB LED is not on a module with its own resistor
--Breadboard
