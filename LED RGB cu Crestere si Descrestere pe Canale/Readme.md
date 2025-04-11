@@ -1,6 +1,5 @@
 Arduino schematic and code explanation
 
-Project 2 Versiunea 1
 ## RGB LED Project
 
 ### Overview
